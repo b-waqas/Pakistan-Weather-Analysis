@@ -79,6 +79,8 @@ A simple **Random Forest Regressor** was built to predict **daily average temper
 5. **Predictive power**: Even a simple model provided useful estimates of average daily temperature.  
 
 ---
-
-
 ## 📂 Repository Structure
+pakistan-weather-analysis
+┣ 📜 pakistan_weather_analysis.ipynb # Jupyter Notebook with code + visuals
+┣ 📜 README.md # Project documentation
+┣ 📂 data # Raw dataset (CSV)
